@@ -456,7 +456,7 @@ img{
 /* Intro Style start */
 .section_intro{
     min-height: 100vh;
-    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/intro-bg.jpg) no-repeat center;
+    background: url(img/intro-bg.jpg) no-repeat center;
     background-size: cover;
     padding-top: 263px;
 }
@@ -483,7 +483,7 @@ margin-bottom: 59px;
 }
 .search_form_field{
     width: 297px;
-    background: transparent url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/Oval.svg) no-repeat left 6px;
+    background: transparent url(img/svg/Oval.svg) no-repeat left 6px;
     background-size: 20px;
     border: 0;
     border-bottom: 2px solid #BFC0C5;

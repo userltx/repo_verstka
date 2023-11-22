@@ -456,7 +456,7 @@ img{
 /* Intro Style start */
 .section_intro{
     min-height: 100vh;
-    background: url(/img/intro-bg.jpg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/intro-bg.jpg) no-repeat center;
     background-size: cover;
     padding-top: 263px;
 }
@@ -483,7 +483,7 @@ margin-bottom: 59px;
 }
 .search_form_field{
     width: 297px;
-    background: transparent url(/img/svg/Oval.svg) no-repeat left 6px;
+    background: transparent url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/Oval.svg) no-repeat left 6px;
     background-size: 20px;
     border: 0;
     border-bottom: 2px solid #BFC0C5;
@@ -575,11 +575,11 @@ margin-bottom: 39px;
     text-transform: uppercase;
     color: #006DFE;
     text-decoration: none;
-    background: url(/img/svg/learn.svg) no-repeat 95% center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat 95% center;
     transition: .2s;
 }
 .ben-learn:hover, .ben-learn:focus{
-    background: url(/img/svg/learn.svg) no-repeat right center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat right center;
     color:#0451b4;
 }
 /* Benefits Style end */
@@ -596,7 +596,7 @@ margin-bottom: 39px;
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background: url(/img/svg/Line_insp.svg) no-repeat bottom left;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/Line_insp.svg) no-repeat bottom left;
     margin-bottom: 36px;
 }
 .insp_logo{
@@ -613,11 +613,11 @@ font-weight: 400;
 line-height: 24px;
 color: #006DFE;
 text-decoration: none;
-background: url(/img/svg/learn.svg) no-repeat 95% center;
+background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat 95% center;
 transition: .2s;
 }
 .view:hover, .view:focus{
-    background: url(/img/svg/learn.svg) no-repeat right center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat right center;
     color:#0451b4;
 }
 .places-cards{
@@ -722,11 +722,11 @@ color:rgba(197, 197, 197, 0.322)
     padding-right: 59px;
     text-decoration: none;
     color:#006DFE;
-    background: url(/img/svg/learn.svg) no-repeat 95% center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat 95% center;
     transition: 0.2s;
 }
 .Tottori-view:hover ,.Tottori-view:focus{
-    background: url(/img/svg/learn.svg) no-repeat right center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat right center;
     color:#0451b4;
 }
 .KyotoA-Desc{
@@ -752,11 +752,11 @@ font-weight: 400;
 line-height: 24px;
 color:#006DFE;
 text-decoration: none;
-background: url(/img/svg/learn.svg) no-repeat 95% center;
+background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat 95% center;
 transition: 0.2s;
 }
 .KyotoA-view:hover, .KyotoA-view:focus{
-    background: url(/img/svg/learn.svg) no-repeat right center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/learn.svg) no-repeat right center;
     color:#0451b4
 }
 /* Sight Style end */
@@ -768,7 +768,7 @@ transition: 0.2s;
 font-size: 35px;
 font-weight: 500;
 line-height: 42px;
-background: url(/img/svg/Line_insp.svg) no-repeat bottom left;
+background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/Line_insp.svg) no-repeat bottom left;
 margin-bottom:54px;
 }
 .visit_title_text{
@@ -807,7 +807,7 @@ margin-bottom:54px;
     font-weight: 500;
     color: white;
     padding-right: 20px;
-    background: url(/img/svg/like.svg) no-repeat right center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/like.svg) no-repeat right center;
     margin-right: 14px;
 }
 .visit_card_com_div{
@@ -815,7 +815,7 @@ margin-bottom:54px;
     font-weight: 500;
     color: white;
     padding-right: 23px;
-    background: url(/img/svg/comment.svg) no-repeat right center;
+    background: url(https://raw.githubusercontent.com/userltx/repo_verstka/36e593ed891c8b31d9b23248e854eb440c29f498/img/svg/comment.svg) no-repeat right center;
 }
 .visit-desc{
     margin-bottom: 31px;
